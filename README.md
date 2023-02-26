@@ -4,4 +4,4 @@ Tribute Page
 
 I took the FreeCodeCamp Legacy Responsive Web Design Course and this is the 1st project to build.
 
-Deployed on netlify, check it here.
+Deployed on netlify, check it [here](https://chimerical-bubblegum-8a2bad.netlify.app/).
